@@ -15,7 +15,3 @@ engineering and modeling approaches
 5. The structure of the json is that it show what is the best score and model based on grid search / cross validation for the 3 scores : roc_auc, precsion and recall
 6. The total code runnign time (when experiment the 3 model classes : logistic regression, adaboost and Neural Networks)
     =  130 mins 
-    
-# TODO
-1. Add the performance for Neural Networks once the Grid/CV experiment is finished
-2. update the total running time
