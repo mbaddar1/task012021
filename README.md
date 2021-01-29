@@ -1,8 +1,8 @@
 # Contents
 1. nb directory contains notebooks , cache file and json files to summarize models performance.
-2. *Churn-Prediction-v1.0.ipynb: a quick and dirty prorotype with the main objective of understanding the data and experimenting different feature 
+2. *Churn-Prediction-v1.0.ipynb*: a quick and dirty prorotype with the main objective of understanding the data and experimenting different feature 
 engineering and modeling approaches
-3. *Churn-Prediction-v1.1.ipynb: a cleaner version with feature generation function well written with simple unit tests
+3. *Churn-Prediction-v1.1.ipynb*: a cleaner version with feature generation function well written with simple unit tests
 
 # Running and Results
 1. create a separate venv (python 3.7) 
