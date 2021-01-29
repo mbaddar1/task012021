@@ -1,0 +1,1 @@
+{"best_scores": {"roc_auc": "0.8137172387031045", "precision": "0.7625932496230052", "recall": "0.7025865475518608"}, "best_estimators": {"roc_auc": "AdaBoostClassifier(learning_rate=1, n_estimators=100)", "precision": "AdaBoostClassifier(learning_rate=0.1, n_estimators=100)", "recall": "AdaBoostClassifier(learning_rate=1, n_estimators=100)"}}

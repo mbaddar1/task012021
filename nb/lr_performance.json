@@ -1,0 +1,1 @@
+{"best_scores": {"roc_auc": "0.8067347483089146", "precision": "0.744357604247965", "recall": "0.7133441728380783"}, "best_estimators": {"roc_auc": "LogisticRegression(C=0.1)", "precision": "LogisticRegression(C=10)", "recall": "LogisticRegression(C=1)"}}
