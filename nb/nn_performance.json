@@ -1,1 +1,1 @@
-{"best_scores": "0.6841109569986576", "best_estimators": "MLPClassifier(activation='logistic', hidden_layer_sizes=32)"}
+{"best_scores": {"roc_auc": "0.8162706474912024", "precision": "0.7991296698997913", "recall": "0.6809741655134246"}, "best_estimators": {"roc_auc": "MLPClassifier(hidden_layer_sizes=(64, 32))", "precision": "MLPClassifier(hidden_layer_sizes=32)", "recall": "MLPClassifier(activation='logistic', hidden_layer_sizes=32)"}}
