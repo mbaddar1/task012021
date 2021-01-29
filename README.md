@@ -12,3 +12,6 @@ engineering and modeling approaches
    nb/lr_perfromance.json : for logisitic regression
    nb/adaboost_performance.json : for adaboost
    nb/nn_performance.json: for neural networks
+5. The structure of the json is that it show what is the best score and model based on grid search / cross validation for the 3 scores : roc_auc, precsion and recall
+6. The total code runnign time (when experiment the 3 model classes : logistic regression, adaboost and Neural Networks)
+    =  70 mins 
